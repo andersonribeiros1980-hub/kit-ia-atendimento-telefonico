@@ -1,18 +1,9 @@
-# Guia: Como Estruturar uma Skill
+Analise os cinco registros fictícios de atendimento telefônico.
 
-Uma skill ensina à IA uma maneira reutilizável de realizar determinado tipo de trabalho.
+Primeiro, apresente seu plano de execução.
 
-## Estrutura Básica
+Depois da minha aprovação, organize as informações por categoria, identifique as dúvidas frequentes, destaque os problemas encontrados e sugira melhorias.
 
-1. **Objetivo da skill:** que tipo de trabalho ela ajuda a realizar?
-2. **Instruções:** quais regras devem ser seguidas sempre?
-3. **Procedimento:** quais etapas orientam a execução?
-4. **Verificações:** o que precisa ser conferido antes de concluir?
-5. **Exceções:** o que fazer quando faltarem dados ou houver ambiguidade?
-6. **Formato de saída:** como o resultado deve ser organizado?
+Não invente números nem informações.
 
-Dependendo da plataforma, uma skill também pode incluir modelos de arquivos, scripts e outros recursos.
-
-> Um prompt salvo não vira automaticamente uma skill. A skill estrutura uma forma de trabalhar.
-
-Veja um exemplo completo na [Skill Preparador de Reuniões](02-skill-preparador-de-reunioes.md).
+Ao final, apresente um relatório com os resultados e diferencie fatos de sugestões.
