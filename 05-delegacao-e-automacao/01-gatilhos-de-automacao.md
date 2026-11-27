@@ -1,22 +1,20 @@
-# Referência: Gatilhos de Automação
+### Minha Tarefa Delegada à IA
 
-Uma automação é um processo configurado para executar etapas a partir de um horário, um evento ou uma condição.
+**Tarefa:** Análise semanal dos atendimentos telefônicos.
 
-## Horário
+Deleguei à IA a organização e análise dos registros de atendimento, com o objetivo de identificar:
 
-Exemplo: toda segunda-feira, às 8h, preparar um resumo.
+- Dúvidas mais frequentes.
+- Solicitações recorrentes.
+- Problemas e pendências.
+- Oportunidades de melhoria no atendimento.
 
-## Evento
+**Limites definidos:**
 
-Exemplo: quando um formulário for enviado, iniciar um processo.
+- Não entrar em contato com clientes.
+- Não alterar cadastros.
+- Não assumir compromissos.
+- Não inventar informações.
+- Solicitar minha aprovação antes de qualquer ação externa.
 
-## Condição
-
-Exemplo: quando um indicador ultrapassar determinado limite, gerar um alerta.
-
-## Onde a IA Entra
-
-Automações tradicionais podem funcionar sem IA. A IA entra quando precisamos interpretar informações, resumir conteúdos ou lidar com variações que não cabem facilmente em regras fixas.
-
-- **Atalho reutilizável:** evita repetir instruções.
-- **Automação:** pode evitar que você precise iniciar manualmente uma rotina.
+**Critério de sucesso:** gerar um relatório organizado, com informações verificáveis e sugestões para melhorar a qualidade do atendimento telefônico.
